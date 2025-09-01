@@ -1,21 +1,14 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww20380\viewh13180\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 [\
-  \{\
-    "relation": ["delegate_permission/common.handle_all_urls"],\
-    "target": \{\
-      "namespace": "android_app",\
-      "package_name": "com.qntm.qam",\
-      "sha256_cert_fingerprints": [\
-        "A2:C7:5B:2C:58:F8:13:27:58:21:69:01:8D:DE:46:60:61:EF:C2:7A:92:86:57:02:ED:31:CD:25:0B:D8:11:4A",\
-        "4F:88:30:2B:9F:CA:93:06:83:34:8A:6C:D7:60:83:BA:7E:65:F9:EA:5E:DC:97:0C:B9:59:31:AB:02:46:EA:C6"\
-		"96:19:3F:41:A5:D8:6C:2D:84:FD:CB:6A:7E:AD:6F:8C:1D:38:E8:EA:A4:0B:34:B0:60:10:C7:96:77:95:F3:61"\
-      ]\
-    \}\
-  \}\
-]}
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.qntm.qam",
+      "sha256_cert_fingerprints": [
+        "A2:C7:5B:2C:58:F8:13:27:58:21:69:01:8D:DE:46:60:61:EF:C2:7A:92:86:57:02:ED:31:CD:25:0B:D8:11:4A",
+        "4F:88:30:2B:9F:CA:93:06:83:34:8A:6C:D7:60:83:BA:7E:65:F9:EA:5E:DC:97:0C:B9:59:31:AB:02:46:EA:C6"
+		"96:19:3F:41:A5:D8:6C:2D:84:FD:CB:6A:7E:AD:6F:8C:1D:38:E8:EA:A4:0B:34:B0:60:10:C7:96:77:95:F3:61"
+      ]
+    }
+  }
+]
